@@ -1,4 +1,4 @@
-# Ping Pong
+# Pong
 
 A ping pong game implemented in Rust using Raylib.
 
